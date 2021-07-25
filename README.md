@@ -1,1 +1,3 @@
-#This is a readme
+# My BSPWM Dotfiles
+![Screenshot](riceupdated.png)
+
