@@ -10,7 +10,7 @@ PROMPT='%F{blue}  %1~%f%F{grey} ∮%  '
 
 #Aliases
 alias v='nvim'
-alias nix-config='sudo nvim /etc/nixos/configuration.nix'
+alias nix-config='nvim ~/.config/configuration.nix'
 alias rebuild='sudo nixos-rebuild switch'
 alias term='nvim ~/.config/alacritty/alacritty.yml'
 alias b='nvim ~/.config/bspwm/bspwmrc'

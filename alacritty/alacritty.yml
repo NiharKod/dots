@@ -13,7 +13,7 @@ scrolling:
   history: 10000
   multiplier: 3
 
-background_opacity: .9 
+background_opacity: .67 
 
 # Font Customization
 font:
